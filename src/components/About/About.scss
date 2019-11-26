@@ -1,0 +1,22 @@
+.about-section {
+    // margin-top: 56px;
+    padding: 4rem 0;
+
+    .heading {
+        text-align: center;
+
+        h2 {
+            color: #444;
+            text-shadow: 6px -2px 4px rgba(0,0,0, 0.9);
+        }
+    }
+
+    .card {
+        background-color: transparent;
+
+        button {
+            background-color: #667788 !important;
+        }
+    }
+}
+

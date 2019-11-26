@@ -1,0 +1,18 @@
+// "margin-top: 1rem; display: flex; justify-content: center; align-items: center;"
+
+.copyright-section {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem 0.5rem;
+
+    p {
+        margin: 0;
+    }
+
+    .react {
+        margin-bottom: 1rem;
+    }
+}
+
+// works onlt on flat
+.jssocials-share-link { border-radius: 50%; }

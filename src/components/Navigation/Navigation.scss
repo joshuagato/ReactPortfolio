@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Cookie';
+    src: url('../../assets/fonts/Cookie-Regular.ttf');
+}
+
+.nav-menu {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7));
+    // padding: 30px;
+    transition: all 0.7s;
+}
+
+.custom-navbar {
+    padding: 5px 30px;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7));
+}
+
+.menu-item {
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #eee;
+    transition: color 0.9s;
+
+    &:hover {
+        color: #007bff;
+    }
+}
+
+.nav-active {
+    color: #007bff;
+}
+
+
+
+// The brand
+.brand-name {
+    font-family: 'Cookie', cursive;
+    color: #eee;
+    transition: color 0.9s;
+
+    &:hover {
+        color: #007bff;
+    }
+}
+// End of the brand
+
+
+
+// The Hamburger menu
+.nav-button {
+    &:focus,
+    &:active {
+        outline: none;
+    }
+}
+
+.line1, .line2, .line3 {
+    width: 23px;
+    height: 3px;
+    margin: 5px;
+    transition: all 0.4s;
+}
+
+.change {
+    .line1 {
+        transform: rotate(-45deg) translate(-5px, 6px);
+    }
+    .line2 {
+        opacity: 0;
+    }
+    .line3 {
+        transform: rotate(45deg) translate(-5px, -6px);
+    }
+}
+// End of the Hamburger menu
+
+
+
+// Styling for the Social Icons
+a {
+    &.icons {
+        
+        img {
+            opacity: 0.3;
+            width: 20px;
+            transition: all 0.7s;
+
+            &:hover {
+                opacity: 1;
+            }
+
+            @media(max-width: 768px) {
+                width: 25px;
+            }
+        }
+    }
+}
+// End of Styling for the Social Icons
