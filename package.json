@@ -1,5 +1,6 @@
 {
   "name": "react-todo-app",
+  "homepage" : "http://joshuagato.github.io/react-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

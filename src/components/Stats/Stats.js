@@ -15,7 +15,7 @@ export class Stats extends Component {
             <div id="stats" className="stats-section">
                 <div className="container">
                     <div className="row">
-
+                        
                         <div className="col-12">
                             <div className="heading">
                                 <h2>STATISTICS</h2>

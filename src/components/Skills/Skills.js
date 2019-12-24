@@ -47,15 +47,15 @@ class Skills extends Component {
                                 <Skill name="CSS" perc="55" desc={description} />
                                 <Skill name="BOOTSTRAP" perc="65" desc={description} />
                                 <Skill name="SASS/SCSS" perc="65" desc={description} />
-                                <Skill name="JAVASCRIPT" perc="50" desc={description} />
+                                <Skill name="JAVASCRIPT(ES6)" perc="50" desc={description} />
                                 <Skill name="JQUERY" perc="60" desc={description} />
-                                <Skill name="ES 6" perc="50" desc={description} />
-                                <Skill name="VUE.JS" perc="50" desc={description} />
-                                <Skill name="REACT.JS" perc="55" desc={description} />
+                                <Skill name="VUE/VUEX" perc="50" desc={description} />
+                                <Skill name="REACT/REDUX" perc="55" desc={description} />
+                                <Skill name="PHP/LARAVEL" perc="60" desc={description} />
+                                <Skill name="NODE/EXPRESS" perc="65" desc={description} />
                                 <Skill name="MYSQL" perc="65" desc={description} />
-                                <Skill name="PHP" perc="60" desc={description} />
-                                <Skill name="OO-PHP" perc="60" desc={description} />
-                                <Skill name="LARAVEL" perc="65" desc={description} />
+                                <Skill name="POSGRESQL" perc="50" desc={description} />
+                                <Skill name="MONGODB" perc="55" desc={description} />
                                 <Skill name="WORDPRESS" perc="50" desc={description} />
                                 <Skill name="GIT" perc="65" desc={description} />
                             </OwlCarousel>
