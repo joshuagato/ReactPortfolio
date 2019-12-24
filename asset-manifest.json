@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.9230b04f.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.aab1c49c.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.aab1c49c.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.d64cee6a.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.d64cee6a.js.map",
+    "static/css/2.e0c85d36.chunk.css": "/ReactPortfolio/static/css/2.e0c85d36.chunk.css",
+    "static/js/2.1648dd18.chunk.js": "/ReactPortfolio/static/js/2.1648dd18.chunk.js",
+    "static/js/2.1648dd18.chunk.js.map": "/ReactPortfolio/static/js/2.1648dd18.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.fe9ae20840f79312a2f9aade5b1d13ae.js": "/ReactPortfolio/precache-manifest.fe9ae20840f79312a2f9aade5b1d13ae.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/2.e0c85d36.chunk.css.map": "/ReactPortfolio/static/css/2.e0c85d36.chunk.css.map",
+    "static/css/main.9230b04f.chunk.css.map": "/ReactPortfolio/static/css/main.9230b04f.chunk.css.map",
+    "static/media/Navigation.scss": "/ReactPortfolio/static/media/Cookie-Regular.1a26c990.ttf",
+    "static/media/about1.jpg": "/ReactPortfolio/static/media/about1.d00ad1a2.jpg",
+    "static/media/about2.jpg": "/ReactPortfolio/static/media/about2.e86a1af6.jpg",
+    "static/media/slide1.jpg": "/ReactPortfolio/static/media/slide1.00051dbb.jpg",
+    "static/media/slide2.jpg": "/ReactPortfolio/static/media/slide2.11c0e84e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d64cee6a.js",
+    "static/css/2.e0c85d36.chunk.css",
+    "static/js/2.1648dd18.chunk.js",
+    "static/css/main.9230b04f.chunk.css",
+    "static/js/main.aab1c49c.chunk.js"
+  ]
+}
